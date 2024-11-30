@@ -13,7 +13,7 @@ class Hotel{
 	}
 }
 
-public class java{
+public class java{
 	public static void main(String[] args) {
 		Hotel h1=new Hotel("ABC");
 }
